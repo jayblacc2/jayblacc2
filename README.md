@@ -1,12 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I’m Johnson Jide
 
 <!--
 **jayblacc2/jayblacc2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-
-- 👋 Hi, I’m Johnson Jide
 - 📚 Bachelor degree in Mathematics and Computer Science..
 - 📚 Master degree in International relations 🗣
 - 👩‍💻 Self Taught in Everything..
