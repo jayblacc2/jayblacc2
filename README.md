@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me ...
 - 📧 jideman2k@gmail.com
 - 🔗 linkedin.com/in/johnsonjide
-- checkout my minimal portfilio: http://app.johnsonjide.netflify.com
+- checkout my minimal portfilio: 
