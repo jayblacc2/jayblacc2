@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me ...
 - 📧 jideman2k@gmail.com
 - 🔗 linkedin.com/in/johnsonjide
-- checkout my minimal portfilio: https://johnsonjide.netlify.app/
+- checkout my Resume:https://bold.pro/my/johnsonjide
